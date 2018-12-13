@@ -7,6 +7,7 @@
 ``` bash
 #clone the repository
 git clone https://github.com/WITfeng/resume.git
+cd resume
 
 # install dependencies
 npm install
