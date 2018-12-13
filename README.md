@@ -5,6 +5,9 @@
 ## Build Setup
 
 ``` bash
+#clone the repository
+git clone https://github.com/WITfeng/resume.git
+
 # install dependencies
 npm install
 
