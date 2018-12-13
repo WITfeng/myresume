@@ -1,0 +1,6 @@
+body {
+  background: url(../images/city-dusk.jpg) no-repeat;
+  background-attachment:fixed;
+  overflow: hidden;
+  background-size:cover;
+}
