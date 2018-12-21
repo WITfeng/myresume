@@ -19,5 +19,5 @@ npm run dev
 npm run build
 
 预览效果
-https://www.gaoandy.com/resume/index.html
+<a href="https://www.gaoandy.com/resume/index.html"></a>
 
