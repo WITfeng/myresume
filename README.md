@@ -18,6 +18,7 @@ npm run dev
 # build for production with minification
 npm run build
 
-预览效果
-<a href="https://www.gaoandy.com/resume/index.html"></a>
+预览效果地址
+[https://www.gaoandy.com/resume/index.html](https://www.gaoandy.com/resume/index.html)
+
 
